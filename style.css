@@ -1,0 +1,32 @@
+h1  {
+    text-align: center;
+}
+
+#one {
+    width: 100px;
+    height: 100px;
+    border: solid 3px black;
+    padding: auto;
+    margin:auto;
+    margin-top: 300px;
+}
+
+#two     {
+    width: 300px;
+    height: 300px;
+    border: solid 3px black;
+    padding: auto;
+    margin: auto;
+    margin-bottom: 300px;
+    translate: 0px  -200px;
+}
+
+#three  {
+    width: 500px;
+    height: 500px;
+    border: solid 3px black;
+    padding: auto;
+    margin: auto;
+    margin-bottom: 300px;
+    translate: 0px  -900px;
+}
